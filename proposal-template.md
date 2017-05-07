@@ -10,6 +10,7 @@ Feel free to change the headers, but do address the points raised.
 
 ## Audience
 Whose problems are we trying to solve?
+Mentally ill people in particular, but it affects the general public as well (since the chance of getting mentally ill can be as high as ~10% in Singapore, you never know when/who might be affected)
 
 ## Problems
 What problems are people facing?
