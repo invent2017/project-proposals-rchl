@@ -1,4 +1,4 @@
-# Ridiculously Catchy Title
+# zzz im tired
 ## Super Catchy Slogan
 
 Group members: 
@@ -28,10 +28,33 @@ Can you find an analogy to describe it?
 
 ## Assumptions
 What assumptions are we making that the project depends on?
+<ul>That we can successfully market the game such that people will be interested in playing it<br>
+That we can portray the key parts of being mentally ill without causing further misconceptions due to the inability to include absolutely everything in such a game <br>
+That we will not (get sued for) triggering any mentally ill people
+</ul>
 
 ## Unique Selling Point
 Our version will succeed because
+<ul>Our game is designed to be fun to play even with the mental illness aspect, so that it will attract players and allow them to learn about mental illness in a more genuine and less “forced” manner (like an information campaign may tend to feel). As it will put players in the shoes of mentally ill people, our game will hopefully encourage empathy and understanding towards them.
+</ul>
 
 ## Competitors
 What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+<ul>
+<li><a href="http://www.takethis.org/therapeutic-and-mental-health-related-games/">x</a> ← Most are interactive stories or puzzles or mindfulness/relaxation games </li>
+<li><a href="http://www.gamesforchange.org/play/at-risk/">x</a> ← but the rating is low</li>
+<li><a href="http://theplayniceinstitute.com/mindlight-2/">x</a> ← this game relies on biofeedback to teach children aged 8-12 how to learn to manage and overcome anxiety </li>
+<li><a href="http://www.depressionquest.com/">x</a> ← you are given a series of everyday life events and have to attempt to manage your illness, relationships, job, and possible treatment. This game aims to show other sufferers of depression that they are not alone in their feelings, and to illustrate to people who may not understand the illness the depths of what it can do to people. </li>
+<li><a href="hhttps://www.neverendingnightmares.com/">x</a> ← this is actually a fairly popular indie game (but still only &lt;1000 reviews on steam), but it’s still primarily a horror game, despite being inspired by the creator’s struggles with depression and OCD </li></ul>
+Why are we better or different?<br><br>
+<ul>We have:
+<li>Wider audience (aimed at general public instead of just people with mental illness)</li>
+<li>Different purpose (to reduce stigma in society as a whole) </li>
+<li>Wider range of mental illnesses covered (most current ones focus on depression)</li>
+<li>Escape room has not been done previously (gameplay-driven instead of just story-driven) - more engaging and attractive to players</li></ul>
+
+
+
+
+
+
