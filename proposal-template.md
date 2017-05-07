@@ -16,9 +16,9 @@ Whose problems are we trying to solve?<br>
 What problems are people facing?
 <ul>Lack of awareness of mental illness, including misconceptions/misunderstandings about causes, symptoms and treatment for different kinds of disorders/illnesses, as well as stigma like mentally ill people are weak and dangerous or can just snap out of it if they really tried </ul>
 How are these already being solved?<br><br>
-<ul>→ already there are campaigns raising awareness on mental illness, but they don’t always have a very large target group / reach
-→ many mentally ill do not know/believe that they have a disorder or what disorder they have
-→ if more people around them can tell, they can get help and support more easily
+<ul>→ already there are campaigns raising awareness on mental illness, but they don’t always have a very large target group / reach<br>
+→ many mentally ill do not know/believe that they have a disorder or what disorder they have<br>
+→ if more people around them can tell, they can get help and support more easily<br>
 → if misunderstandings about mental illness can be corrected, stigma will be lessened and there will be less shame around being mentally ill</ul>
 
 ## Solution
