@@ -1,5 +1,5 @@
 # zzz im tired
-## Super Catchy Slogan
+## we tried tm
 
 Group members: 
 * Shi Hui Ling
@@ -45,7 +45,7 @@ What competitors are there? List 5. Surely you can google 5.
 <li><a href="http://www.gamesforchange.org/play/at-risk/">x</a> ← but the rating is low</li>
 <li><a href="http://theplayniceinstitute.com/mindlight-2/">x</a> ← this game relies on biofeedback to teach children aged 8-12 how to learn to manage and overcome anxiety </li>
 <li><a href="http://www.depressionquest.com/">x</a> ← you are given a series of everyday life events and have to attempt to manage your illness, relationships, job, and possible treatment. This game aims to show other sufferers of depression that they are not alone in their feelings, and to illustrate to people who may not understand the illness the depths of what it can do to people. </li>
-<li><a href="hhttps://www.neverendingnightmares.com/">x</a> ← this is actually a fairly popular indie game (but still only &lt;1000 reviews on steam), but it’s still primarily a horror game, despite being inspired by the creator’s struggles with depression and OCD </li></ul>
+<li><a href="https://www.neverendingnightmares.com/">x</a> ← this is actually a fairly popular indie game (but still only &lt;1000 reviews on steam), but it’s still primarily a horror game, despite being inspired by the creator’s struggles with depression and OCD </li></ul>
 Why are we better or different?<br><br>
 <ul>We have:
 <li>Wider audience (aimed at general public instead of just people with mental illness)</li>
