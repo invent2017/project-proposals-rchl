@@ -20,7 +20,7 @@
 
 ## Audience
 Whose problems are we trying to solve?<br>
-<ul>Regular users of phones and computers, presenters, people who like to fidget.</ul>
+* Regular users of phones and computers, presenters, people who like to fidget.
 
 ## Problems
 What problems are people facing?
@@ -41,9 +41,8 @@ What assumptions are we making that the project depends on?
 
 ## Unique Selling Point
 Our version will succeed because
-<ul>It can be used as a fidget cube when not connected to any devices.<br><br>
-Also, it’s minimalistic - just a few key features optimised for reading and listening to music, plus a button to connect to Bluetooth. (Though there’s the additional roller mouse and select button for computers.) 
-</ul>
+* It can be used as a fidget cube when not connected to any devices.
+* Also, it’s minimalistic - just a few key features optimised for reading and listening to music, plus a button to connect to Bluetooth. (Though there’s the additional roller mouse and select button for computers.) 
 
 ## Competitors
 What competitors are there? List 5. Surely you can google 5. Why are we better or different?
