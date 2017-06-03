@@ -1,7 +1,6 @@
 # iCube™
-## pls approve this thenk
+## the perfect fidget cube remote controller, tailored just for you
 
-* The perfect fidget cube remote controller, tailored just for you
 * For use with both phone and computer, but optimised for computer 
 * A scroller to scroll up and down a webpage
 * Up/down/left/right buttons
